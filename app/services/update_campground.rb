@@ -22,10 +22,6 @@ class UpdateCampground
   end
 
   def delete_image
-
-
-
-    
     @campground.image.purge
   end
 end
