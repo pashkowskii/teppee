@@ -27,7 +27,7 @@
     "js-yaml": "^3.8.4",
     "node-sass": "^4.5.3",
     "path-complete-extname": "^0.1.0",
-    "postcss": "^7.0.32",
+    "postcss": "^8.2.10",
     "postcss-calc": "^7.0.2",
     "postcss-preset-env": "^6.7.0",
     "postcss-smart-import": "^0.7.4",
